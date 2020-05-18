@@ -49,7 +49,7 @@ const MapWrapper = () => {
   const getColor = async (lat, lng) => {
 
     const postBody = {
-      "key": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtYWlsSWRlbnRpdHkiOiJtZHNodXJhaW0yMDEzQGdtYWlsLmNvbSJ9.iBcCkg_1DIFgcZe25YxyV45fmQ6ARPRrKf5HiCOx9hY",
+      "key": "YOUR_API_KEY",
       "latlngs": [[lat, lng]]
     }
 

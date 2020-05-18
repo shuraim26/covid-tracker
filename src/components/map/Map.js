@@ -7,7 +7,7 @@ const Map = ({ loc, color }) => {
   return (
     <div style={{ height: '500px', width: '100%' }}>
       <GoogleMapReact
-        bootstrapURLKeys={{ key: "AIzaSyBbTgMN2PbMKxffDmjq_abDKdM1HjeWKWc" }}
+        bootstrapURLKeys={{ key: "YOUR_API_KEY" }}
         defaultCenter={loc}
         defaultZoom={17}
       >

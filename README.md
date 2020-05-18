@@ -11,6 +11,9 @@ This project uses [geoIQ](https://geoiq.io/covid19.html)  **API** for it's infor
 
 * Install dependencies by running
 	> npm i 
+
+* Generate API Keys from **Google Console** and **geoIQ** and replace YOUR_API_KEY with it
+
 * Start react server by running
 	> npm start 
 	
